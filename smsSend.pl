@@ -32,7 +32,7 @@ for my $i (0..$#{$arr_data})
          
          if ($tell ne "")
             { 
-#my $text ="Shanovnyi abonent,stan rahunku na $dat po dogovoru $contract stanovyt':$balance UAH.Rekomenduemo popovnyty rahunok:www.infocom.ua/portmone";
+
 my $text = "Shanovnyi abonente, na $dat stan rakhunku
  po dohovoru $contract stanovyt $balance UAH.
  Popovniuite rakhunok myttievo ta bez cherh: damain.com/portmone";
